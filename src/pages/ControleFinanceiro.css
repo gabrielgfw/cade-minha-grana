@@ -1,0 +1,10 @@
+.content-wrapper {
+  display: flex;
+  flex-direction: vertical;
+}
+
+.container {
+  margin: 15px;
+  display: flex;
+  flex-direction: horizontal;
+}
